@@ -1,0 +1,6 @@
+{
+  "name": "Charlie Mobile & Accessories",
+  "description": "Official online store for Charlie Mobile & Accessories. Explore genuine smartphones, iPhones, Samsung Galaxy, smartwatches, audio devices, chargers, and premium mobile accessories with verified warranty and exchange offers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
